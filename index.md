@@ -10,7 +10,7 @@
 
 
 ## Publications
-###First-Authored Journal Papers  
+### First-Authored Journal Papers  
 <font color=blue>可信普适社交网络研究综述和展望</font>  
 闫峥， 吴宸梓， **冯伟(W. Feng)**， 王子龙  
 *网络与信息安全学报* 2 (2), 30-40 2016  
@@ -31,7 +31,7 @@
 *IEEE Internet of Things Journal*, accepted, 2020. 
 
  
-###Co-Authored Journal Papers  
+### Co-Authored Journal Papers  
 <font color=blue>Anonymous authentication for trustworthy pervasive social networking</font>   
 Z Yan, **W Feng**, P Wang  
 *IEEE Transactions on Computational Social Systems* 2 (3), 88-98 2015  
@@ -46,20 +46,20 @@ Y Wang, Z Yan, **W Feng**, S Liu
 *World Wide Web* 23 (1), 421-452 2020  
  
 
-###First-Authored Conference Papers  
+### First-Authored Conference Papers  
 <font color=blue>Blockchain Based Data Transmission Control for Tactical Data Link</font>  
 **W Feng**, Y Li, X Yang, Z Yan, L Chen  
 *International Conference on Smart City and Informatization*, 583-595, 2019   
 
 
-###Co-Authored Conference Papers  
+### Co-Authored Conference Papers  
 
-
-## First-Authored Patents
+## Patents
+### First-Authored Patents
 <font color=blue>Blockchain Based data Transmission Mechanism for Tactical Data Link</font>   
 **W Feng**, Z Yan  
 Filing No. 201811189926.4 Filing Date: 2018.10.12  
-## Co-Authored Patents
+### Co-Authored Patents
 <font color=blue>Blockchain Based mobile Crowdsourcing System for Data Collection and Processing</font>   
 Z Yan , **W Feng**  
 Filing No. 201811189392.5, Filing Date: 2018.10.12   
