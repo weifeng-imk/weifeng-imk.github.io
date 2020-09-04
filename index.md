@@ -17,6 +17,7 @@
 <font color=blue>A survey on security, privacy, and trust in mobile crowdsourcing</font> 
 **W Feng**, Z Yan, H Zhang, K Zeng, Y Xiao, YT Hou  
 *IEEE Internet of Things Journal* 5 (4), 2971-2992  2018  
+[Link](https://ieeexplore.ieee.org/abstract/document/8080202/)  
 <font color=blue>MCS-Chain: Decentralized and trustworthy mobile crowdsourcing based on blockchain</font>  
 **W Feng**, Z Yan  
 *Future Generation Computer Systems* 2019  
