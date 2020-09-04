@@ -11,9 +11,6 @@
 
 ## Publications
 ### First-Authored Journal Papers  
-<font color=blue>可信普适社交网络研究综述和展望</font>  
-闫峥， 吴宸梓， **冯伟(W. Feng)**， 王子龙  
-*网络与信息安全学报* 2 (2), 30-40 2016  
 <font color=blue>Anonymous authentication on trust in pervasive social networking based on group signature</font>  
 **W Feng**, Z Yan, H Xie  
 *IEEE Access* 5, 6236-6246  2017
@@ -44,6 +41,9 @@ S Liu, A Liu, Z Yan, **W Feng**
 <font color=blue>Privacy protection in mobile crowd sensing: a survey</font>    
 Y Wang, Z Yan, **W Feng**, S Liu  
 *World Wide Web* 23 (1), 421-452 2020  
+<font color=blue>可信普适社交网络研究综述和展望</font>  
+闫峥， 吴宸梓， **冯伟(W. Feng)**， 王子龙  
+*网络与信息安全学报* 2 (2), 30-40 2016  
  
 
 ### First-Authored Conference Papers  
