@@ -13,7 +13,8 @@
 ### First-Authored Journal Papers  
 <font color=blue>Anonymous authentication on trust in pervasive social networking based on group signature</font>  
 **W Feng**, Z Yan, H Xie  
-*IEEE Access* 5, 6236-6246  2017
+*IEEE Access* 5, 6236-6246  2017  
+[Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7876819)  
 <font color=blue>A survey on security, privacy, and trust in mobile crowdsourcing</font> 
 **W Feng**, Z Yan, H Zhang, K Zeng, Y Xiao, YT Hou  
 *IEEE Internet of Things Journal* 5 (4), 2971-2992  2018  
@@ -21,6 +22,7 @@
 <font color=blue>MCS-Chain: Decentralized and trustworthy mobile crowdsourcing based on blockchain</font>  
 **W Feng**, Z Yan  
 *Future Generation Computer Systems* 2019  
+[Link](https://www.sciencedirect.com/science/article/pii/S0167739X18326967)  
 <font color=blue>Blockchain Based Data Transmission Control for Tactical Data Link</font>   
 **W Feng**, Y Li, X Yang, Z Yan, L Chen  
 *Digital Communications and Networks*, accepted, 2020  
@@ -32,6 +34,7 @@
 ### Co-Authored Journal Papers  
 <font color=blue>Anonymous authentication for trustworthy pervasive social networking</font>   
 Z Yan, **W Feng**, P Wang  
+[link](https://ieeexplore.ieee.org/abstract/document/7405318)  
 *IEEE Transactions on Computational Social Systems* 2 (3), 88-98 2015  
 <font color=blue>A novel scheme of anonymous authentication on trust in Pervasive Social Networking</font>   
 Z Yan, P Wang, **W Feng**  
